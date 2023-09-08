@@ -14,7 +14,7 @@ Multi-window application sample code.
 4. [主畫面](https://z7jmsd.csb.app/red.html) 接收
 
 ### sample 2
-1. 點擊 `blue.html` 的 `quick` button
+1. 點擊 `工具列` 的 `Quick` 按鈕
 or 從任意視窗輸入下列指令:
 `worker.port.postMessage('hello world');`
 
