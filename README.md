@@ -15,7 +15,7 @@ Multi-window application sample code.
 
 ### sample 2
 1. 點擊 `工具列` 的 `Quick` 按鈕
-or 從任意視窗輸入下列指令:
+   - or 從任意視窗輸入下列指令:
 `worker.port.postMessage('hello world');`
 
 2. 打開另一視窗的 console 
